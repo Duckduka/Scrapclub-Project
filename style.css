@@ -1,0 +1,21 @@
+p {
+  color:yellow;
+  text-align:center;
+  font-size:48px;
+}
+#heder{
+  color:red;
+  background-color:green;
+  text-align:center;
+  font-size:128px;
+}
+body{
+  background-color:blue;
+  text-align:center;
+}
+a{
+ color:red;
+
+ font-size:48px;
+ border: 20px solid black
+}
