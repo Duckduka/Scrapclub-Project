@@ -95,11 +95,7 @@ while(bal > 0):
       print("You got alot of ammo! +10000 ammo")
       bal = bal + 10000
       print ("Current amount of ammo:",bal)
-    elif(chance == 10):
-      print ("You wasted a bunch of your ammo...  STUPIDDDDDDDD !",)
-      bal = bal - 10000
-      print ("Current amount of ammo:",bal)
-  day = day + 1
+  
   print()
   print("====================================================")
   # pa = input("Do you want to try to get ammo?(n)")
